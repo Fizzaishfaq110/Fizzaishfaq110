@@ -1,6 +1,7 @@
 <strong>Hi, I’m Fizza Ishfaq.</strong>
 <br>
-I’m currently learning HTML, CSS and JavaScript.
+I’m a business graduate who loves finance. <br>
+And I am currently learning HTML, CSS and JavaScript.
 
 
 <!---
