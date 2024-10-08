@@ -1,7 +1,7 @@
 <strong>Fizza Ishfaq</strong>
 <br>
-I’m a business graduate who loves finance. <br>
-I'm currently learning HTML, CSS and JavaScript.
+A business graduate who loves finance. <br>
+I'm currently studying Full Stack web development.
 
 
 <!---
