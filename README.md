@@ -2,6 +2,7 @@
 <br>
 A business graduate who loves finance. <br>
 I'm currently studying Full Stack web development.
+I speak English, Urdu and Swedish.
 
 
 <!---
