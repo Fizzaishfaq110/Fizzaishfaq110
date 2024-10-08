@@ -1,4 +1,4 @@
-<strong>Hi, I’m Fizza Ishfaq.</strong>
+<strong>Fizza Ishfaq</strong>
 <br>
 I’m a business graduate who loves finance. <br>
 I'm currently learning HTML, CSS and JavaScript.
