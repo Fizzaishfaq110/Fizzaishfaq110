@@ -1,7 +1,7 @@
 <strong>Fizza Ishfaq</strong>
 <br>
 A business graduate who loves finance. <br>
-I'm currently studying Full Stack web development.
+I'm currently studying Full Stack web development.<br>
 I speak English, Urdu and Swedish.
 
 
